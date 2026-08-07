@@ -1,1 +1,1 @@
-* disconnect §cMasz bana!\n\n§cTwoje dzialania nalozyly na Twoje konto bana na §4359d23h59m45s§c.\n\n§cTwoj Nick: §dSteve\n§cPowod: §fmultikonta/boty\n§cAdministrator: §fmwqx\n\n§4§lWAZNE:\n§cJezeli uwazasz, ze zostales zbanowany przez przypadek lub nie zgadzasz\nsie ze swoim banem\n\n§c- zrob screena tego ekranu\n§c- screenshot musi byc czytelny\n§c- na screenshotcie musza byc widoczne: okno gry (wraz z wersja) i\npasek zadan wraz z widoczna data i godzina\n\n§codwolaj sie na §bdc.kokscraft.pl §cna kanale §b#odwolania §cwrzucajac odwolanie
+
